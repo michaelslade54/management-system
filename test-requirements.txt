@@ -1,0 +1,5 @@
+odoo14-addon-knowledge @git+https://github.com/dzungtran89/knowledge@14.0-mig-knowledge#subdirectory=setup/knowledge
+odoo14-addon-document-page @git+https://github.com/dzungtran89/knowledge@14.0-mig-document_page#subdirectory=setup/document_page
+odoo14-addon-mgmtsystem @git+https://github.com/dzungtran89/management-system@14.0-mig-mgmtsystem#subdirectory=setup/mgmtsystem
+odoo14-addon-mgmtsystem-action @git+https://github.com/dzungtran89/management-system@14.0-mig-mgmtsystem_action#subdirectory=setup/mgmtsystem_action
+odoo14-addon-document-page-procedure @git+https://github.com/dzungtran89/management-system@14.0-mig-document_page_procedure#subdirectory=setup/document_page_procedure
