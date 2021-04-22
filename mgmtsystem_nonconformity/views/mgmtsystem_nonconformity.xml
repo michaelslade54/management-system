@@ -385,12 +385,12 @@
         <field name="context">{"search_default_user_id":uid}</field>
     </record>
 
-    <!-- <menuitem -->
-    <!--     id="menu_open_nonconformity" -->
-    <!--     string="Nonconformity" -->
-    <!--     action="open_mgmtsystem_nonconformity_list" -->
-    <!--     parent="mgmtsystem.menu_mgmtsystem_main" -->
-    <!--     sequence="30" -->
-    <!--     groups="mgmtsystem.group_mgmtsystem_manager,mgmtsystem.group_mgmtsystem_auditor,base.group_user"/> -->
+    <menuitem
+         id="menu_open_nonconformity"
+         name="Nonconformities"
+         action="open_mgmtsystem_nonconformity_list"
+         parent="mgmtsystem.menu_mgmtsystem_main"
+         sequence="30"
+         groups="mgmtsystem.group_mgmtsystem_manager,mgmtsystem.group_mgmtsystem_auditor,base.group_user"/>
 
 </odoo>
